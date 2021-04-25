@@ -1,4 +1,4 @@
 # project1
 ```math
-y=\beta_0+\beta_1 x
+y=\beta_{0}+\beta_{1} x
 ```
